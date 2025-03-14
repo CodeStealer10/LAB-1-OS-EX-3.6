@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Pham Nhat buoi`
 TARGET="./calc"
 HIST="./hist.txt"
 
